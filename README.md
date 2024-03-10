@@ -15,13 +15,13 @@
       </header>
       <main>
         <h1>Ryu Whipple | WDD130</h1>
-    　<aside>
- 　　 <h2>Japan</h2>
- 　　 <img src="images/japan.jpg" alt="japan ">
-  　　Japan is a small country has four seasons near China.
-　　　</aside>
         <img src="images/image01.JPG" alt="I'm Ryu Whiiple" width="200">
         <p>Hello! My name is Ryu Whipple and I'm from Hyougo,Japan. I'm became 21 this year and I'm still studying for my future. </p>
+        <aside>
+ 　　   <h2>Japan</h2>
+ 　　   <img src="images/japan.jpg" alt="japan ">
+  　  　Japan is a small country has four seasons near China.
+　　　  </aside>
       </main>
       <footer>
     <p>©2024 Ryu Whipple  Hyougo,Japan </p>
